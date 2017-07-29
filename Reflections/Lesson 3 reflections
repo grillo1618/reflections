@@ -21,3 +21,10 @@ Describe the differences between forks, clones, and branches. When would you use
     - Branches are simply just commits that we do but with labels.
 
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+-=-==-===-=====-=========--=-==-===-=====-=========--=-==-===-=====--=-==-===-=====-=========-
+
+  The benefit of having the remote repository in its latest state is that we can actually keep an up-to-date 
+version of a project or repository and work from thereon, minimizing mayor conflicts on future implementations, 
+have a good sense of where we are with our git history. 
+
