@@ -36,3 +36,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
   
     This methods described above are an alternative, but old and gragile. I do not see it easier (after knowing git)
  any way better than git for code projects. For other things like documents and so, yes, git might not be suitable.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+-=-==-===-=====-=========--=-==-===-=====-=========--=-==-===-=====--=-==-===-=====-=========-=-==-===-=====-========-=-==-===-
+
+  I would make a branch to make a feature implementation or a mayor change to my project. I would do changes on master directly if 
+  changes are bug changes, minor changes, and for example, readme or .txt text changes. 
