@@ -28,3 +28,11 @@ What is the benefit of having a copy of the last known state of the remote store
 version of a project or repository and work from thereon, minimizing mayor conflicts on future implementations, 
 have a good sense of where we are with our git history. 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+-=-==-===-=====-=========--=-==-===-=====-=========--=-==-===-=====--=-==-===-=====-=========-=-==-===
+
+  Being sincere enough, I can see many ways to collaborate without using Git. For example: Use online drives to 
+  upload code projects and have backups and even share complete projects (in my experience) through the internet.
+  
+    This methods described above are an alternative, but old and gragile. I do not see it easier (after knowing git)
+ any way better than git for code projects. For other things like documents and so, yes, git might not be suitable.
